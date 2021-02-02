@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋🏼
+### Currently I'm Student 👻
 
 <!--
 **RyZaD/RyZaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
